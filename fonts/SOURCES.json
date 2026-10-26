@@ -1,0 +1,62 @@
+{
+  "source": "https://github.com/google/fonts",
+  "revision": "e7db6ca603fd4862010383ff17ffd6cc4ffac1c0",
+  "files": [
+    {
+      "path": "fonts/BeVietnamPro-Regular.ttf",
+      "sha256": "cd1ef6e9d7db28ad5cdb88a65ccbe693870e60d340b791f349d248342b4fe4c3"
+    },
+    {
+      "path": "fonts/BeVietnamPro-Bold.ttf",
+      "sha256": "7f738fe5c43c8872807b20e2d30d42163618de8a4daf7f48a939adac32c16847"
+    },
+    {
+      "path": "fonts/bevietnampro/OFL.txt",
+      "sha256": "6b7f8f73609a25ea78c891e34cf37b06f8a676b7ea986e941e43b009110f2a85"
+    },
+    {
+      "path": "fonts/Kanit-Regular.ttf",
+      "sha256": "27170c049660b2f962d3ed28441fd20f4c743503ca031fec9c2b4542d6c52736"
+    },
+    {
+      "path": "fonts/Kanit-Bold.ttf",
+      "sha256": "5dec5b080dab13de9d2295437c0ff3ec05c9e75587dfc31358c005eb4efa5e70"
+    },
+    {
+      "path": "fonts/kanit/OFL.txt",
+      "sha256": "eb998cc5a685b240cdb46a0b5747e70334c8c57bbd7b1f6b044d75719358df67"
+    },
+    {
+      "path": "fonts/Anton-Regular.ttf",
+      "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab"
+    },
+    {
+      "path": "fonts/anton/OFL.txt",
+      "sha256": "ee67e6ee22790b7929f1a3769ca2801d565c64b5a9096942c1adf5596de9c9e4"
+    },
+    {
+      "path": "fonts/Lobster-Regular.ttf",
+      "sha256": "d6568e697fd50cedc0be04d8aae4127fe95add607e7bff954ca88604be80c205"
+    },
+    {
+      "path": "fonts/lobster/OFL.txt",
+      "sha256": "88aece7d90f2bb7049719f11619a560af22af3451af141f12aa4f46bb157a99b"
+    },
+    {
+      "path": "fonts/Pacifico-Regular.ttf",
+      "sha256": "5b6c0d5334a7bf77dea52b975c5a0c408878c0f7115ed5b6fb151f634b7bf701"
+    },
+    {
+      "path": "fonts/pacifico/OFL.txt",
+      "sha256": "a47e5daeda73568969395c656823102678f2eefb0d7d7ecb47aac4cc17e42204"
+    },
+    {
+      "path": "fonts/Pattaya-Regular.ttf",
+      "sha256": "02b77f7f5b52e718a91230c8ea153bfe746e1d748dabded4e41d7e6765fa9889"
+    },
+    {
+      "path": "fonts/pattaya/OFL.txt",
+      "sha256": "72060253bd481a8dc18664bb9117072dc07c0f0270a40617c230654821774850"
+    }
+  ]
+}
